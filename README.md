@@ -1,3 +1,5 @@
+<p align="center"><img src="https://raw.githubusercontent.com/cecilusmax33/cecilusmax33/main/assets/logos/code-bro-one-logo.png" alt="Code-Bro-One logo" width="220"></p>
+
 # Code Bro One — Technical Blueprint
 
 Design blueprint for **Code Bro One**, an autonomous multi-agent software development lifecycle (SDLC) platform: describe an app, and a council of specialized AI agents architects, builds, styles, tests, and deploys it.
